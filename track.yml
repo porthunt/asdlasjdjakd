@@ -1,0 +1,20 @@
+slug: untitled-track-c86v1z
+id: owcq70e4crjo
+revision: 1
+title: Untitled Track
+description: ""
+icon: ""
+tags: []
+owner: test-123
+developers:
+- joao+dev+test+instruqt+lots+character@instruqt.com
+instructors: []
+idle_timeout: 300
+timelimit: 1200
+lab_config:
+  extend_ttl: 0
+  sidebar_enabled: true
+  hideStopButton: false
+  feedback_recap_enabled: true
+  feedback_tab_enabled: false
+  loadingMessages: true
