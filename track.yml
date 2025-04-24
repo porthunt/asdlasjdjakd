@@ -1,12 +1,13 @@
 slug: untitled-track-c86v1z
 id: owcq70e4crjo
 revision: 1
-title: my track 2
+title: my track 3
 description: ""
 icon: ""
 tags: []
 owner: test-123
-developers: []
+developers:
+- joao@instruqt.com
 instructors: []
 idle_timeout: 300
 timelimit: 1200
